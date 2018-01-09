@@ -1,0 +1,42 @@
+# Topography file directory
+directory.name:OntakeDEM10m
+
+# Center Position of the vent 
+CenterX: 723588.0
+CenterY: 3974463.0
+
+# Number of particles
+numOfParticles:100
+
+# Particle density
+density.avg:2300
+density.sd:300.0
+
+# Particle diameter
+diameter.avg:0.20
+diameter.sd:0
+diameter.min:0.10
+diameter.max:0.70
+
+#Displacement of the launch point relative to vent center
+displacement.avg:0
+displacement.sd:15.0
+displacement.max:0
+
+#Initial velocity magnitude
+velocity.norm.avg:100
+velocity.norm.sd:25.0
+
+#Ejection angle (From vertical to horizontal)
+axis.eject.deg:20
+
+#Direction bearing (From north to east in clockwise)
+direct.bearing.deg:20
+
+#Wind Velocity (Constant and horizontal only)
+wind.x:0
+wind.y:0
+
+#Drag Coefficient
+dragCoefficient.cnst:0.8
+
